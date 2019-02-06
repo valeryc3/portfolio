@@ -1,0 +1,66 @@
+body{
+    text-align:center;
+
+}
+.nav{
+
+    font-size:25px;
+    margin:80px;
+   text-align:center;
+   padding:5px;
+  
+    }
+    .nav-item{
+        padding:80px;
+     color:black;
+         text-decoration:none;
+        }
+        
+.here{
+background-color:black;
+    color:white;
+    text-decoration: none;
+}
+
+.headshot{
+    width:25%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+h2{
+   
+    display:inline;
+    padding-bottom: 40px;
+    font-size:35px;
+    
+}
+.headshot{
+border-radius:360px;
+width:50px;
+}
+p{
+font-size: 50px;
+}
+.GH{
+font-size: 40px;
+}
+.link{
+   font-size: 20px;
+}
+h1{
+   border-bottom: 3px solid #8A2BE2	; 
+   font-size:50px;
+}
+.p{
+    font-size: 25px;
+}
